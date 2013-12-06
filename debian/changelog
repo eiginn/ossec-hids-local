@@ -1,0 +1,5 @@
+ossec-hids-local (2.7.1-debian) wheezy; urgency=low
+
+  * init build
+
+ -- Pavel Mironov <wanderermg@gmail.com>  Thu, 27 Nov 2013 11:48:29 +0400

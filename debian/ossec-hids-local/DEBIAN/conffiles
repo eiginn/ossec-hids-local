@@ -1,0 +1,2 @@
+/etc/init.d/ossec-hids-local
+/etc/ossec-init.conf
